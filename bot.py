@@ -44,7 +44,7 @@ SHOP = {
 💰 Крипто кошелек:
 UQCXQ5gKftBpbd8SToXynLboUHtcErln5YTjcfnIrqBSXWfx""",
 
-    "start_image": "https://i.postimg.cc/wTHVjrJJ/photo-2026-04-14-18-53-26.jpg",
+    "start_image": "https://i.postimg.cc/wBsQQknL/photo-1-2026-04-21-17-00-53.jpg",
 
     "products": [
         {
@@ -68,7 +68,7 @@ UQCXQ5gKftBpbd8SToXynLboUHtcErln5YTjcfnIrqBSXWfx""",
             "name": "👑 Полный доступ( большн в инфо)",
             "price": 5,
             "desc": "📦 Все видео",
-            "image": "https://i.postimg.cc/wBsQQknL/photo-1-2026-04-21-17-00-53.jpg",
+            "image": "https://i.postimg.cc/NFbnv4sL/photo-2026-04-21-17-16-56.jpg",
             "link": "https://t.me/+qwy6GO2zT2hkNzcy"
         }
     ]
